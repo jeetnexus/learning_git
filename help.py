@@ -1,1 +1,1 @@
-print("corrected")
+rint("corrected")
